@@ -1,3 +1,7 @@
+/* -------------------------------------------------------------------------- */
+// Copyright (c) 2021. Nikola Vukiæeviæ
+/* -------------------------------------------------------------------------- */
+
 let clanak         = document.getElementById("clanak_tekst");
 let nasloviH       = clanak.querySelectorAll('h2, h3, h4');
 let linkoviSadrzaj = `<h2 id='sadrzaj_glavni_naslov'>
