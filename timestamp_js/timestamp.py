@@ -2,7 +2,6 @@
 # Copyright (c) 2021. Nikola Vukićević                                       #
 # -------------------------------------------------------------------------- #
 
-
 import math
 
 sekundeUMinutu  = 60
